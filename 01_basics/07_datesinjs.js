@@ -16,15 +16,15 @@
 // console.log(myCreatedDate.getTime());
 // console.log(Math.floor(Date.now()/10000));
 
-let newDate = new Date()
-console.log(newDate);
-console.log(newDate.getMonth())
-console.log(newDate.getMinutes())
-console.log(newDate.getDay())
+// let newDate = new Date()
+// console.log(newDate);
+// console.log(newDate.getMonth())
+// console.log(newDate.getMinutes())
+// console.log(newDate.getDay())
 
 
-newDate.toLocaleString('default',{weekday :"long"
+// newDate.toLocaleString('default',{weekday :"long"
 
-})
+// })
 
 
